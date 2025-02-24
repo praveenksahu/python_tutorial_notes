@@ -27,7 +27,7 @@ def avg(num1,num2):
      return (num1 + num2)/2  
 
 #Step-2: user input 
-print("Please select a operation:\n " \
+print("Please select a operation:\n" \
       "1. Addition\n" \
       "2. Substraction\n" \
       "3. Multiplication\n" \
